@@ -27,3 +27,7 @@
     cursor: pointer;
     background-color: #fb1803;
 }
+.container input{
+    padding: 10px 20px;
+    margin: 10px;
+}

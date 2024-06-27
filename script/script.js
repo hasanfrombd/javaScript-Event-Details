@@ -25,3 +25,8 @@ function onMouseEnter() {
 function onMouseOut() {
     document.getElementById("titleSix").innerHTML = 'Subscribed when you took out your mouse!';
 }
+
+// event: onkeypress!;
+function onKeyPress() {
+    document.getElementById("titleSeven").innerHTML = 'You pressed a key on your keyboard!';
+}
